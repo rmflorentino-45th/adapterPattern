@@ -26,4 +26,4 @@ Adapter Objects:
 
 ## Class Diagram
 
-todo
+![alt text](<AdapterPatterns UML.png>)
